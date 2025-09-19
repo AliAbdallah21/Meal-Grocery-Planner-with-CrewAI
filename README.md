@@ -246,8 +246,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Ali Abdallah**
 
 - **GitHub**: [@AliAbdallah21](https://github.com/AliAbdallah21)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)
-- **Email**: [your-email@domain.com](mailto:your-email@domain.com)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/ali-abdallah-b5ba792b6/)
+- **Email**: [Contact Me](aliabdalla2110@gmail.com)
 
 ---
 
